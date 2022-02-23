@@ -1,0 +1,8 @@
+name: GatewayMC
+version: '${project.version}'
+main: gg.tgb.gatewaymc.Gatewaymc
+prefix: GatewayMC
+authors: [ tgb ]
+description: Authenticate with GatewayMC servers
+website: https://gatewaymc.gg
+api-version: 1.13
